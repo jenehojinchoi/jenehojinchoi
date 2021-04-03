@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi, I'm Jene Choi!
+A senior chemical engineering major, passionate about building projects and solving problems<br />
+These days, I'm learning Flask and Reactjs
+
+### Contact me 
+email: jenehojinchoi@gmail.com<br />
+blog: velog.io/@hojin11choi<br />
+
+### Skills
+Languages: Python3, C++, JavaScript<br />
+Backend: Django, Flask, MySQL<br />
+Frontend: HTML5, CSS3, Reactjs<br />
+Other: Git/Github, Slack, AWS RDS, AWS EC2, Agile Development
 
 <!--
 **jenehojinchoi/jenehojinchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
