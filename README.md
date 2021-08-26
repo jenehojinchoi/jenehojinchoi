@@ -1,10 +1,10 @@
 ## Hi, I'm Jene Choi!
 A senior chemical engineering major, passionate about building projects and solving problems<br />
-These days, I'm learning Flask and Reactjs
-
+These days, I'm learning C++ and TypeScript.
 ### Contact me 
 email: jenehojinchoi@gmail.com<br />
-blog: velog.io/@hojin11choi<br />
+Dev blog: velog.io/@hojin11choi<br />
+Personal blog: https://jenehojinchoi.medium.com/<br />
 
 ### Skills
 Languages: Python3, C++, JavaScript<br />
