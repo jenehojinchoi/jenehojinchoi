@@ -11,6 +11,9 @@ Backend: Django, Flask, MySQL<br />
 Frontend: HTML5, CSS3, Reactjs<br />
 Other: Git/Github, Slack, AWS RDS, AWS EC2, Agile Development
 
+## Stats
+![Jene's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenehojinchoi&hide=issues,stars&show_icons=true&theme=vue)
+
 <!--
 **jenehojinchoi/jenehojinchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
