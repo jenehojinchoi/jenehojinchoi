@@ -1,19 +1,24 @@
 ## Hi, I'm Jene Choi!
-I'm a senior chemical engineering major at UCLA, passionate about building projects and solving problems. <br />
-Currently learning TypeScript.
 
-### Contact me 
+I'm a CS master's student at USC, passionate about building projects and solving problems. <br />
+Currently learning Java.
+My experience spans across fullstack web development with Typescript and Python.
+
+### Contact me
+
 email: jenehojinchoi@gmail.com<br />
 Dev blog: velog.io/@hojin11choi<br />
 
 ### Skills
-Languages: Python3, C++, JavaScript, MATLAB<br />
+
+Languages: Python3, C++, JavaScript, TypeScript, Java, MATLAB<br />
 Backend: Django, Flask, SQL<br />
-Frontend: HTML5, CSS3, Reactjs, Redux<br />
-Other: Git/Github, MySQL, AWS RDS, AWS EC2, AWS S3, Docker, Agile Development<br />
+Frontend: HTML5, CSS3, Reactjs, Redux <br />
+Other: Git/Github, MySQL, AWS RDS, AWS EC2, AWS S3, Docker, Agile Development, Figma<br />
 Python Libraries: Numpy, Pandas, SciKit-Learn, Matplotlib<br />
 
 ## Stats
+
 ![Jene's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenehojinchoi&hide=issues,stars&show_icons=true&theme=vue)
 
 <!--
