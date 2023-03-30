@@ -1,19 +1,20 @@
 ## Hi, I'm Jene Choi!
 
 I'm a CS master's student at USC, passionate about building projects and solving problems. <br />
-My experience spans across fullstack development with React, Typescript and Python.
+My experience spans across fullstack development with React, Typescript and Python.<br />
+I'm an incoming backend/fullstack software engineer intern at Splunk, San Jose for Summer 2023! :D
 
 ### Contact me
 
 email: jenehojinchoi@gmail.com<br />
-
+my portfolio website: [portfolio](https://jenehojinchoi.com)<br />
 
 ### Skills
 
 Languages: Python3, Java, C++, C, JavaScript, TypeScript, MATLAB<br />
 Backend: Django, Flask, SQL<br />
 Frontend: HTML5, CSS3, Reactjs, Redux, Angular<br />
-Other: Git/Github, MySQL, MongoDB, AWS RDS, AWS EC2, AWS S3, Docker, Agile Development, Figma<br />
+Other: Git/Github, MySQL, MongoDB, GCP, AWS RDS, AWS EC2, AWS S3, Docker, Agile Development, Figma, Unix/Linux system<br />
 Python Libraries: Numpy, Pandas, SciKit-Learn, Matplotlib<br />
 
 <!--
