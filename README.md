@@ -2,7 +2,8 @@
 
 I'm a CS master's student at USC, passionate about building projects and solving problems. <br />
 My experience spans across fullstack development with React, Typescript and Python.<br />
-I'm an incoming backend/fullstack software engineer intern at Splunk, San Jose for Summer 2023! :D
+In the summer of 2023, I had the opportunity to intern at Splunk in San Jose, where I worked as a backend and full-stack software engineer. <br />
+I am excited to announce that I will be continuing my journey as a full-stack software engineer intern at NVIDIA from January to April! :D<br />
 
 ### Contact me
 
