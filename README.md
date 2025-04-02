@@ -1,14 +1,16 @@
 ## Hi, I'm Jene Choi!
 
-I'm a CS master's student at USC, passionate about building projects and solving problems. <br />
-My experience spans across fullstack development with React, Typescript and Python.<br />
-In the summer of 2023, I had the opportunity to intern at Splunk in San Jose, where I worked as a full-stack software engineer. <br />
-I am continuing my journey as a full-stack software engineer intern at NVIDIA from January to April! :D<br />
+After graduating from USC and UCLA, I began developing tools for AV engineers as a Software Engineer at NVIDIA. 
+My work primarily involves Python and Golang, with a focus on OpenTelemetry, where I’ve gained in-depth expertise.
+
+I love cats, coffee, reading sci-fi books, and painting.
+Happy to chat!
 
 ### Contact me
 
 email: jenehojinchoi@gmail.com<br />
-my portfolio website: [portfolio](https://jenehojinchoi.com)<br />
+
+- 🔭 I’m currently working on
 
 <!--
 **jenehojinchoi/jenehojinchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
